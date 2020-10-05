@@ -54,4 +54,4 @@ Follow this procedure to upload all the files that you want to upload to github.
 
 #### Now, try to run to the main.py file, it will show you a layout like a basic calculator and then by entering values you can do your calculations on your newly created basic calculator.
 #### On a perfect execution of this calculator, you should the following output in your screen
-![Output Screen](/Ooutput.png)
+![Output Screen](/output.png)
