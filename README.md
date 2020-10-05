@@ -41,7 +41,16 @@ Create controller.py. In this module add the following things:
 ### Now install the pyqt5 using 'pip install pyqt5' command and install Git on your local PC using 'pip install python-git' command.
 Thereafter redirect to the directory where you have saved all the python files.
 In the repository open Git Bash and enter the below given command:
-1. 
+1. git clone
+3. (optional) If you get the error message that username has not been defined the kindly follow the steps and follow the steps that are shown to set up user name and email-Id.
+2. git status
+(After this step you will get the file names in Red which means that files are left to be uploaded to Github.)
+3. git add file_name.py
+4. git commit -m "Any Message that you want to print"
+5. git push origin master
+
+Now on refreshing your repository page you will be able to see that file you have uploaded.
+Follow this procedure to upload all the files that you want to upload to github.
 
 #### Now, try to run to the main.py file, it will show you a layout like a basic calculator and then by entering values you can do your calculations on your newly created basic calculator.
 #### On a perfect execution of this calculator, you should the following output in your screen
